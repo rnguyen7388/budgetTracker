@@ -8,7 +8,7 @@
 
 3.[Questions](#Questions)
 
-Image of the application
+## App Snippet
 ![](public/images/budget.JPG)
 
 ## Installation Requirements
