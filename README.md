@@ -17,7 +17,7 @@ Image of the application
     npm i mongoose
     npm i compression
 ## Usage
-    Users who want to keep track of their budget regardless of when they have internet connection or not.
+    Users who want to keep track of their budget regardless of whether there is an internet connection or not.
 ## Badges
   [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 ## Contribution
