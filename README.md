@@ -23,6 +23,6 @@ Image of the application
 ## Contribution
     Feel free to contact Ray's GitHub
 ## Heroku Deployed Link
-    https://pure-escarpment-15667.herokuapp.com/
+   https://pure-escarpment-15667.herokuapp.com/
 ## Questions
     If you have any questions, please contact my GitHub: https://github.com/rnguyen7388
